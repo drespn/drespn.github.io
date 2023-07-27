@@ -15,3 +15,8 @@ Craig Hurwitz.
 In college, I also founded [Tongue and Sole Lab](https://www.tongueandsolelab.com/), a sneakerhead x NFT project founded by 3 Duke undergraduates that eventually sold out. I worked as a website developer/smart contract developer alongside my co-founders.
 
 Outside of software, I worked as a campus leader and representative growing companies like [BeReal](https://bereal.com/en/), [Fuse Technologies](https://www.fuseignited.com/), [POSH](https://posh.vip/), and more.
+
+At Duke, I took graduate courses and an undergraduate in Blockchain Consensus, Financial Services and Products, and Emerging Trends in FinTech Services alongside coursework
+in Discrete Mathematics for Computer Science, Design/Analysis of Algorithms, and Computer Architecture.
+
+I have also pursued online coursework in [Solana Development](https://www.udemy.com/course/solana-developer/), [iOS development](https://www.udemy.com/course/ios-13-app-development-bootcamp/), and [Solidity Development](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/).
